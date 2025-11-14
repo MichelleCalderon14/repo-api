@@ -1,0 +1,1 @@
+Coloca aquí tus DTOs si luego decides no exponer entidades directamente.
